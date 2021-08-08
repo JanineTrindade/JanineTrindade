@@ -1,4 +1,4 @@
-### Oiii Prazer, meu nome é Janie Trindade 👋
+### Oiii Prazer, meu nome é Janine Trindade 👋
 
 - 🔭 Desenvolvedora Front-end em Formação
 - 🌱 Atualmente estou aprendendo  - HTML, CSS e JAVASCRIPT
