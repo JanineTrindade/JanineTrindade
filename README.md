@@ -1,9 +1,9 @@
-### Oiii Prazer, meu nome é Janine Trindade 👋
+### Oiii, meu nome é Janine👋
 
 - 🔭 Desenvolvedora Front-end em Formação
-- 🌱 Atualmente estou aprendendo  - HTML, CSS e JAVASCRIPT
+- 🌱 Atualmente estudando 
 - 🤔 Estou procurando ajuda para estudar Programação
-- 😄 Pronomes: ela/dela
+  
 
 <div>
   <a href="https://github.com/JanineTrindade">
