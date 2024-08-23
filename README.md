@@ -1,8 +1,6 @@
 ### Oiii, meu nome é Janine👋
 
 - 🔭 Desenvolvedora Front-end em Formação
-- 🌱 Atualmente estudando 
-- 🤔 Estou procurando ajuda para estudar Programação
   
 
 <div>
